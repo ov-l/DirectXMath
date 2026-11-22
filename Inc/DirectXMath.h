@@ -161,6 +161,7 @@
 #pragma warning(disable : 4005 4668)
 // C4005/4668: Old header issue
 #endif
+#include <stddef.h>
 #include <stdint.h>
 #ifdef _MSC_VER
 #pragma warning(pop)
